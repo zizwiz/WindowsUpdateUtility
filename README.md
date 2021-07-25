@@ -1,4 +1,6 @@
 # WindowsUpdateUtility
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 This app will help set the frequency of your Windows updates so you can update when you need to and not when you are very busy.
 
 ONLY USE IF YOU ARE HAPPY TO EDIT THE WINDOWS REGISTRY
